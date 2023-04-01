@@ -1,5 +1,6 @@
-### This script dumps all user data and saves in a file.
-To be used as a PoC for IDOR vulnerabilities in Pentest Engagements.
+### Parallelized IDOR Exploitation: Multi-Threaded POC Script for Fast Results
+
+This script uses multiple threads to send parallel requests to IDOR-vulnerable endpoints within a specified range. The responses obtained from these requests are then saved to a file. This approach enables an extremely fast execution of the IDOR Proof of Concept (POC) script.
 
 ---
 
