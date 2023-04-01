@@ -1,4 +1,5 @@
-### A fast and lightweight IDOR PoC Script
+### This script dumps all user data and saves in a file.
+To be used as a PoC for IDOR vulnerabilities in Pentest Engagements.
 
 ---
 
